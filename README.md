@@ -1,8 +1,6 @@
 # Godot_BotW_Explosion
 Recreation of the beautiful explosions of BotW in Godot. I plan on making a tutorial for this.
 
-<h3>This is still a WIP, stuff will be uploaded when I'm done</h3>
-
 <h1>Video Tutorial</h1>
 
 https://www.youtube.com/watch?v=kSyWqMkZjQU
